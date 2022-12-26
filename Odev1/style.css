@@ -1,0 +1,55 @@
+
+* {
+    margin: 200;
+    padding: 500;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+  }
+
+  .ebr {
+  text-decoration: underline cornflowerblue;    
+   margin-inline: 300px;
+   text-align: center;
+   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+  }
+
+  .about {
+
+    background-color: azure;
+  }
+
+  .h3 {
+
+    background: forestgreen;
+    padding-right: 100 px;
+  }
+
+  .p {
+   background-color: darkseagreen;
+    margin-left: 30px;
+    margin-top: 60px;
+    text-align: center;
+  }
+.liste{
+    text-align: left;
+}
+
+.canli {
+    text-align: right;
+}
+.canliAna {
+   
+    background: center / contain no-repeat url("./images/lizard.jpg"),
+    #eee 100% url("./images/lizard.jpg");                  
+}
+
+.container {
+    background-color: rgb(65, 108, 93) ;
+}
+
+.yazi {  
+    float:left;
+    padding:0 10px 10px 0;  
+
+}
